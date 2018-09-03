@@ -39,7 +39,9 @@ Simply looks different than that:
 The scripts in this repository allow you to fetch all your posts rendered as
 they are on the website frontend, as well as some surrounding posts for context.
 
-## Improvements
+---
+
+## TODO: Possible Improvements
 
 ### Style
 
