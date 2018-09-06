@@ -34,7 +34,7 @@ This:
 
 Simply looks different than that:
 
-![Website rendered post](media/website.png)
+![Website rendered post](media/abyss.png)
 
 The scripts in this repository allow you to fetch all your posts rendered as
 they are on the website frontend, as well as some surrounding posts for context.
