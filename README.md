@@ -16,7 +16,7 @@ Udacity announced that they will be sunsetting their old Discourse Forums at [ht
 It is not entirely sure whether this means all posts will go offline,
 or if the Forums might remain online as a resource.
 
-If you are like me, you might thnink you have posted some fun or interesting stuff
+If you are like me, you might think you have posted some fun or interesting stuff
 up there, and would like to keep a copy of it for yourself and future
 reference.
 
@@ -39,7 +39,9 @@ Simply looks different than that:
 The scripts in this repository allow you to fetch all your posts rendered as
 they are on the website frontend, as well as some surrounding posts for context.
 
-## Improvements
+---
+
+## TODO: Possible Improvements
 
 ### Style
 
