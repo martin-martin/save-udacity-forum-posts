@@ -2,10 +2,19 @@
 
 ## Instructions
 
-1. Create a virtualenv, activate it, and install the necessary packages from `requirements.txt`
-2. If you're _not_ on a Mac, [download the right chromedriver](http://chromedriver.chromium.org/downloads) (as well as Chrome) for your OS
-3. Open `get_links.py` and enter your paths and credentials, then **run** the script
-4. Open `get_posts.py` and enter your paths and credentials, then **run** the script
+* [Download Python3](https://www.python.org/downloads/)
+* Clone this repository and `cd` into the folder
+* Create a virtualenv, activate it, and install the necessary packages from `requirements.txt`:
+
+```
+$ python3 -m venv env
+$ source env/bin/activate
+$ pip install -r requirements.txt
+```
+
+* If you're _not_ on a Mac, [download the right chromedriver](http://chromedriver.chromium.org/downloads) (as well as [Chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)) for your OS (the Mac chromedriver is included in this repo)
+* Open `get_links.py` and enter your paths and credentials, then **run** the script: `python get_links.py`
+* Open `get_posts.py` and enter your paths and credentials, then **run** the script: `python get_posts.py`
 
 You will get all your Udacity Discourse forum posts saved as HTML files.
 
